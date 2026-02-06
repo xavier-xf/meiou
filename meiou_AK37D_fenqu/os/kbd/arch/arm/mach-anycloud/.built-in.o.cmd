@@ -1,0 +1,1 @@
+cmd_arch/arm/mach-anycloud/built-in.o :=  /home/xiaoxiao/workspace/meiou/meiou_AK37D_fenqu/tools/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-ld -EL    -r -o arch/arm/mach-anycloud/built-in.o arch/arm/mach-anycloud/mach-ak37d.o arch/arm/mach-anycloud/ak_l2.o 

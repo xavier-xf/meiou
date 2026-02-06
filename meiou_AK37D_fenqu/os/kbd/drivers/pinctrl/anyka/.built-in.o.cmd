@@ -1,0 +1,1 @@
+cmd_drivers/pinctrl/anyka/built-in.o :=  /home/xiaoxiao/workspace/meiou/meiou_AK37D_fenqu/tools/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-ld -EL    -r -o drivers/pinctrl/anyka/built-in.o drivers/pinctrl/anyka/ak_37d_pinctrl.o 

@@ -1,0 +1,14 @@
+crt0.o: crt0.S \
+ /home/leo/CDV1004QT/AK37D_SDK_V1.06/os/uboot/include/config.h \
+ /home/leo/CDV1004QT/AK37D_SDK_V1.06/os/uboot/include/config_cmd_defaults.h \
+ /home/leo/CDV1004QT/AK37D_SDK_V1.06/os/uboot/include/config_defaults.h \
+ /home/leo/CDV1004QT/AK37D_SDK_V1.06/os/uboot/include/configs/anycloud_ak37d.h \
+ /home/leo/CDV1004QT/AK37D_SDK_V1.06/os/uboot/include/configs/ak_board.h \
+ /home/leo/CDV1004QT/AK37D_SDK_V1.06/os/uboot/include/asm/config.h \
+ /home/leo/CDV1004QT/AK37D_SDK_V1.06/os/uboot/include/config_fallbacks.h \
+ /home/leo/CDV1004QT/AK37D_SDK_V1.06/os/uboot/include/config_uncmd_spl.h \
+ /home/leo/CDV1004QT/AK37D_SDK_V1.06/os/uboot/include/asm-offsets.h \
+ /home/leo/CDV1004QT/AK37D_SDK_V1.06/os/uboot/include/generated/generic-asm-offsets.h \
+ /home/leo/CDV1004QT/AK37D_SDK_V1.06/os/uboot/include/linux/linkage.h \
+ /home/leo/CDV1004QT/AK37D_SDK_V1.06/os/uboot/include/asm/linkage.h \
+ /home/leo/CDV1004QT/AK37D_SDK_V1.06/os/uboot/include/linux/config.h

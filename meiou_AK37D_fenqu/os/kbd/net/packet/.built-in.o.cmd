@@ -1,0 +1,1 @@
+cmd_net/packet/built-in.o :=  /home/xiaoxiao/workspace/meiou/meiou_AK37D_fenqu/tools/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-ld -EL    -r -o net/packet/built-in.o net/packet/af_packet.o 

@@ -1,0 +1,1 @@
+cmd_drivers/usb/gadget/legacy/built-in.o :=  rm -f drivers/usb/gadget/legacy/built-in.o; /home/xiaoxiao/workspace/meiou/meiou_AK37D_fenqu/tools/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-ar rcsD drivers/usb/gadget/legacy/built-in.o

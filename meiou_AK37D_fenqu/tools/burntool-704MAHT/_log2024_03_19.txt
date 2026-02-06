@@ -1,0 +1,18 @@
+
+
+=============Transc Information =============
+Print Time: 2024-03-19 11:32:24
+
+[11:32:24]BT_DL_FILE_DOWNLOAD_FAIL fail
+[11:32:24]BT_GetRamValue num_idex
+[11:32:24]BT_GetRamValue num_idex
+[11:32:24]BT_GetRamValue num_idex
+[11:32:24]BT_GetRamValue num_idex
+[11:32:24]BT_GetRamValue num_idex
+[11:32:24]BT_GetRamValue num_idex
+[11:32:24]BT_GetRamValue num_idex
+[11:32:24]BT_GetRamValue num_idex
+[11:32:24]BT_GetRamValue num_idex
+[11:32:24]BT_GetRamValue num_idex
+[11:32:24]BT_GetRamValue fail
+[11:32:24]memcmp fail

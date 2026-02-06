@@ -1,0 +1,8 @@
+c500_cbd_ak3761d_dsi_SRA_704MAHT_v1.0.0.o: \
+ /home/xiaoxiao/workspace/meiou/meiou_AK37D_fenqu/os/kernel/arch/arm/boot/dts/c500_cbd_ak3761d_dsi_SRA_704MAHT_v1.0.0.dts \
+ /home/xiaoxiao/workspace/meiou/meiou_AK37D_fenqu/os/kernel/arch/arm/boot/dts/anycloud_ak37d1.dtsi \
+ /home/xiaoxiao/workspace/meiou/meiou_AK37D_fenqu/os/kernel/arch/arm/boot/dts/anycloud_ak37d_common.dtsi \
+ /home/xiaoxiao/workspace/meiou/meiou_AK37D_fenqu/os/kernel/arch/arm/boot/dts/include/dt-bindings/gpio/gpio.h \
+ /home/xiaoxiao/workspace/meiou/meiou_AK37D_fenqu/os/kernel/arch/arm/boot/dts/anycloud_ak37d_lcd.dtsi \
+ /home/xiaoxiao/workspace/meiou/meiou_AK37D_fenqu/os/kernel/arch/arm/boot/dts/anycloud_ak37d_norflash.dtsi \
+ /home/xiaoxiao/workspace/meiou/meiou_AK37D_fenqu/os/kernel/arch/arm/boot/dts/anycloud_ak37d_nandflash1.dtsi

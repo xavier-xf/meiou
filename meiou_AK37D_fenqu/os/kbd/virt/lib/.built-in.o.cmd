@@ -1,0 +1,1 @@
+cmd_virt/lib/built-in.o :=  rm -f virt/lib/built-in.o; /home/xiaoxiao/workspace/meiou/meiou_AK37D_fenqu/tools/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-ar rcsD virt/lib/built-in.o

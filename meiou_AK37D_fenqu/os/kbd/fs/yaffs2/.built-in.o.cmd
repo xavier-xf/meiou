@@ -1,0 +1,1 @@
+cmd_fs/yaffs2/built-in.o :=  /home/xiaoxiao/workspace/meiou/meiou_AK37D_fenqu/tools/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-ld -EL    -r -o fs/yaffs2/built-in.o fs/yaffs2/yaffs2multi.o 

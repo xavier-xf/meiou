@@ -1,0 +1,21 @@
+/home/xiaole/smb/the_new/meiou_AK37D_fenqu/os/ubd/lib/linux_string.o: \
+ linux_string.c \
+ /home/xiaole/smb/the_new/meiou_AK37D_fenqu/os/uboot/include/linux/ctype.h \
+ /home/xiaole/smb/the_new/meiou_AK37D_fenqu/os/uboot/include/linux/string.h \
+ /home/xiaole/smb/the_new/meiou_AK37D_fenqu/os/uboot/include/linux/types.h \
+ /home/xiaole/smb/the_new/meiou_AK37D_fenqu/os/uboot/include/linux/config.h \
+ /home/xiaole/smb/the_new/meiou_AK37D_fenqu/os/uboot/include/linux/posix_types.h \
+ /home/xiaole/smb/the_new/meiou_AK37D_fenqu/os/uboot/include/linux/stddef.h \
+ /home/xiaole/smb/the_new/meiou_AK37D_fenqu/os/ubd/include2/asm/posix_types.h \
+ /home/xiaole/smb/the_new/meiou_AK37D_fenqu/os/ubd/include2/asm/types.h \
+ /home/xiaole/smb/the_new/meiou_AK37D_fenqu/tools/arm-anykav500-linux-uclibcgnueabi/lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/include/stdbool.h \
+ /home/xiaole/smb/the_new/meiou_AK37D_fenqu/os/ubd/include2/asm/string.h \
+ /home/xiaole/smb/the_new/meiou_AK37D_fenqu/os/ubd/include/config.h \
+ /home/xiaole/smb/the_new/meiou_AK37D_fenqu/os/uboot/include/config_cmd_defaults.h \
+ /home/xiaole/smb/the_new/meiou_AK37D_fenqu/os/uboot/include/config_defaults.h \
+ /home/xiaole/smb/the_new/meiou_AK37D_fenqu/os/uboot/include/configs/anycloud_ak37d.h \
+ /home/xiaole/smb/the_new/meiou_AK37D_fenqu/os/uboot/include/configs/ak_board.h \
+ /home/xiaole/smb/the_new/meiou_AK37D_fenqu/os/ubd/include2/asm/config.h \
+ /home/xiaole/smb/the_new/meiou_AK37D_fenqu/os/uboot/include/config_fallbacks.h \
+ /home/xiaole/smb/the_new/meiou_AK37D_fenqu/os/uboot/include/config_uncmd_spl.h \
+ /home/xiaole/smb/the_new/meiou_AK37D_fenqu/os/uboot/include/linux/linux_string.h

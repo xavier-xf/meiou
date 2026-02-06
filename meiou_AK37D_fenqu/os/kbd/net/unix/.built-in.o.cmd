@@ -1,0 +1,1 @@
+cmd_net/unix/built-in.o :=  /home/xiaoxiao/workspace/meiou/meiou_AK37D_fenqu/tools/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-ld -EL    -r -o net/unix/built-in.o net/unix/unix.o net/unix/unix_diag.o 

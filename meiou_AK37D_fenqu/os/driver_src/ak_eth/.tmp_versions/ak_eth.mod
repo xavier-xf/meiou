@@ -1,0 +1,2 @@
+/home/leo/CDV1004QT-CDV70QT-NEW/AK37D_SDK_V1.06/os/driver_src/ak_eth/ak_eth.ko
+/home/leo/CDV1004QT-CDV70QT-NEW/AK37D_SDK_V1.06/os/driver_src/ak_eth/ak_eth.o

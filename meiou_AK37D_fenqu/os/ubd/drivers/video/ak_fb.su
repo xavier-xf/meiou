@@ -1,0 +1,11 @@
+ak_fb.c:1259:13:rgb_panel_info_cfg	16	static
+ak_fb.c:819:13:mipi_panel_cmd_setting	328	static
+ak_fb.c:62:15:get_peri_pll_freq	8	static
+ak_fb.c:87:15:ak_get_asic_pll_clk	8	static
+ak_fb.c:104:5:ak_lcd_parameter_parse_dt1	48	static
+ak_fb.c:255:5:ak_lcd_parameter_parse_dt2	24	static
+ak_fb.c:345:5:ak_lcd_parameter_parse_dt3	16	static
+ak_fb.c:2129:6:lcd_ctrl_init	40	static
+ak_fb.c:2248:6:lcd_enable	8	static
+ak_fb.c:2265:6:lcd_disable	8	static
+ak_fb.c:2280:6:lcd_setcolreg	0	static

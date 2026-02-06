@@ -1,0 +1,1 @@
+cmd_drivers/block/built-in.o :=  /home/xiaoxiao/workspace/meiou/meiou_AK37D_fenqu/tools/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-ld -EL    -r -o drivers/block/built-in.o drivers/block/loop.o 

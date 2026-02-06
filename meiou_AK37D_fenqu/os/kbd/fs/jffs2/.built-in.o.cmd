@@ -1,0 +1,1 @@
+cmd_fs/jffs2/built-in.o :=  /home/xiaoxiao/workspace/meiou/meiou_AK37D_fenqu/tools/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-ld -EL    -r -o fs/jffs2/built-in.o fs/jffs2/jffs2.o 

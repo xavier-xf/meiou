@@ -1,0 +1,9 @@
+crc16.o: crc16.c \
+ /home/leo/CDV1004QT/AK37D_SDK_V1.06/os/uboot/include/crc.h \
+ /home/leo/CDV1004QT/AK37D_SDK_V1.06/os/uboot/include/linux/types.h \
+ /home/leo/CDV1004QT/AK37D_SDK_V1.06/os/uboot/include/linux/config.h \
+ /home/leo/CDV1004QT/AK37D_SDK_V1.06/os/uboot/include/linux/posix_types.h \
+ /home/leo/CDV1004QT/AK37D_SDK_V1.06/os/uboot/include/linux/stddef.h \
+ /home/leo/CDV1004QT/AK37D_SDK_V1.06/os/uboot/include/asm/posix_types.h \
+ /home/leo/CDV1004QT/AK37D_SDK_V1.06/os/uboot/include/asm/types.h \
+ /home/leo/CDV1004QT/AK37D_SDK_V1.06/tools/arm-anykav500-linux-uclibcgnueabi/lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/include/stdbool.h

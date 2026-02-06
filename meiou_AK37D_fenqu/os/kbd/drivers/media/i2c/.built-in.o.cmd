@@ -1,0 +1,1 @@
+cmd_drivers/media/i2c/built-in.o :=  /home/xiaoxiao/workspace/meiou/meiou_AK37D_fenqu/tools/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-ld -EL    -r -o drivers/media/i2c/built-in.o drivers/media/i2c/soc_camera/built-in.o 

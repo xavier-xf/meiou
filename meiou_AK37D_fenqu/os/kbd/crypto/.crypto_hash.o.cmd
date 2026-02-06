@@ -1,0 +1,1 @@
+cmd_crypto/crypto_hash.o := /home/xiaoxiao/workspace/meiou/meiou_AK37D_fenqu/tools/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-ld -EL    -r -o crypto/crypto_hash.o crypto/ahash.o crypto/shash.o 

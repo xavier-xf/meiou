@@ -1,0 +1,20 @@
+/home/xiaole/smb/the_new/meiou_AK37D_fenqu/os/ubd/arch/arm/cpu/arm926ejs/ak37d/ak_sysctl.o: \
+ ak_sysctl.c \
+ /home/xiaole/smb/the_new/meiou_AK37D_fenqu/os/ubd/include2/asm/io.h \
+ /home/xiaole/smb/the_new/meiou_AK37D_fenqu/os/uboot/include/linux/types.h \
+ /home/xiaole/smb/the_new/meiou_AK37D_fenqu/os/uboot/include/linux/config.h \
+ /home/xiaole/smb/the_new/meiou_AK37D_fenqu/os/uboot/include/linux/posix_types.h \
+ /home/xiaole/smb/the_new/meiou_AK37D_fenqu/os/uboot/include/linux/stddef.h \
+ /home/xiaole/smb/the_new/meiou_AK37D_fenqu/os/ubd/include2/asm/posix_types.h \
+ /home/xiaole/smb/the_new/meiou_AK37D_fenqu/os/ubd/include2/asm/types.h \
+ /home/xiaole/smb/the_new/meiou_AK37D_fenqu/tools/arm-anykav500-linux-uclibcgnueabi/lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/include/stdbool.h \
+ /home/xiaole/smb/the_new/meiou_AK37D_fenqu/os/ubd/include2/asm/byteorder.h \
+ /home/xiaole/smb/the_new/meiou_AK37D_fenqu/os/uboot/include/linux/byteorder/little_endian.h \
+ /home/xiaole/smb/the_new/meiou_AK37D_fenqu/os/uboot/include/linux/compiler.h \
+ /home/xiaole/smb/the_new/meiou_AK37D_fenqu/os/uboot/include/linux/compiler-gcc.h \
+ /home/xiaole/smb/the_new/meiou_AK37D_fenqu/os/uboot/include/linux/compiler-gcc4.h \
+ /home/xiaole/smb/the_new/meiou_AK37D_fenqu/os/uboot/include/linux/byteorder/swab.h \
+ /home/xiaole/smb/the_new/meiou_AK37D_fenqu/os/uboot/include/linux/byteorder/generic.h \
+ /home/xiaole/smb/the_new/meiou_AK37D_fenqu/os/ubd/include2/asm/memory.h \
+ /home/xiaole/smb/the_new/meiou_AK37D_fenqu/os/ubd/include2/asm/arch-ak37d/ak_cpu.h \
+ /home/xiaole/smb/the_new/meiou_AK37D_fenqu/os/ubd/include2/asm/arch-ak37d/ak_sysctl.h

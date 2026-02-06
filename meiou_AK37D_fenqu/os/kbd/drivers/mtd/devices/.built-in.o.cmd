@@ -1,0 +1,1 @@
+cmd_drivers/mtd/devices/built-in.o :=  /home/xiaoxiao/workspace/meiou/meiou_AK37D_fenqu/tools/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-ld -EL    -r -o drivers/mtd/devices/built-in.o drivers/mtd/devices/ak_spiflash.o drivers/mtd/devices/ak_spi_nandflash.o 

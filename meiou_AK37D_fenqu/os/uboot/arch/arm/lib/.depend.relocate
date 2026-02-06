@@ -1,0 +1,4 @@
+relocate.o: relocate.S \
+ /home/leo/CDV1004QT/AK37D_SDK_V1.06/os/uboot/include/linux/linkage.h \
+ /home/leo/CDV1004QT/AK37D_SDK_V1.06/os/uboot/include/asm/linkage.h \
+ /home/leo/CDV1004QT/AK37D_SDK_V1.06/os/uboot/include/linux/config.h

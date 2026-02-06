@@ -1,0 +1,1 @@
+cmd_drivers/net/ppp/ppp_deflate.ko := /home/xiaoxiao/workspace/meiou/meiou_AK37D_fenqu/tools/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-ld -EL -r  -T /home/xiaoxiao/workspace/meiou/meiou_AK37D_fenqu/os/kernel/scripts/module-common.lds --build-id  -o drivers/net/ppp/ppp_deflate.ko drivers/net/ppp/ppp_deflate.o drivers/net/ppp/ppp_deflate.mod.o

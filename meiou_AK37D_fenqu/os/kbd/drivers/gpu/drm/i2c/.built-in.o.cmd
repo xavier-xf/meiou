@@ -1,0 +1,1 @@
+cmd_drivers/gpu/drm/i2c/built-in.o :=  rm -f drivers/gpu/drm/i2c/built-in.o; /home/xiaoxiao/workspace/meiou/meiou_AK37D_fenqu/tools/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-ar rcsD drivers/gpu/drm/i2c/built-in.o

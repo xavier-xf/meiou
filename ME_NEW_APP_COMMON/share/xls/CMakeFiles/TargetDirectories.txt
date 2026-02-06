@@ -1,0 +1,3 @@
+/home/xiaole/smb/the_new/APP_new_zhong_fenqu_SX_newfile/share/xls/CMakeFiles/rebuild_cache.dir
+/home/xiaole/smb/the_new/APP_new_zhong_fenqu_SX_newfile/share/xls/CMakeFiles/edit_cache.dir
+/home/xiaole/smb/the_new/APP_new_zhong_fenqu_SX_newfile/share/xls/CMakeFiles/xls.dir

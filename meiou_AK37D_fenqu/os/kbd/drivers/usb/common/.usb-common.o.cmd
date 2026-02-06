@@ -1,0 +1,1 @@
+cmd_drivers/usb/common/usb-common.o := /home/xiaoxiao/workspace/meiou/meiou_AK37D_fenqu/tools/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-ld -EL    -r -o drivers/usb/common/usb-common.o drivers/usb/common/common.o 

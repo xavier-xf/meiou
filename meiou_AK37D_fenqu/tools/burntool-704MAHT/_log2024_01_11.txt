@@ -1,0 +1,38 @@
+
+
+=============Transc Information =============
+Print Time: 2024-01-11 08:54:14
+
+[08:54:14]BT_GetRamValue num_idex
+[08:54:14]BT_GetRamValue num_idex
+[08:54:14]BT_GetRamValue num_idex
+[08:54:14]BT_GetRamValue num_idex
+[08:54:14]BT_GetRamValue num_idex
+[08:54:14]BT_GetRamValue num_idex
+[08:54:14]BT_GetRamValue num_idex
+[08:54:14]BT_GetRamValue num_idex
+[08:54:14]BT_GetRamValue num_idex
+[08:54:14]BT_GetRamValue num_idex
+[08:54:14]BT_GetRamValue fail
+[08:54:14]memcmp fail
+
+
+=============Transc Information =============
+Print Time: 2024-01-11 08:54:49
+
+[08:54:49]87
+[08:54:49]deviceDesc NULL 
+
+
+=============Transc Information =============
+Print Time: 2024-01-11 11:03:39
+
+[11:03:39]BT_CommitTransc 04 fail
+[11:03:39]BT_DownLoadData  fail
+
+
+=============Transc Information =============
+Print Time: 2024-01-11 11:05:19
+
+[11:05:19]BT_CommitTransc 04 fail
+[11:05:19]BT_DownLoadData  fail

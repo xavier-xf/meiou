@@ -1,0 +1,1 @@
+cmd_drivers/net/ppp/built-in.o :=  rm -f drivers/net/ppp/built-in.o; /home/xiaoxiao/workspace/meiou/meiou_AK37D_fenqu/tools/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-ar rcsD drivers/net/ppp/built-in.o

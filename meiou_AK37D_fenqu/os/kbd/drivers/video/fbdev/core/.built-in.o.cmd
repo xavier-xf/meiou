@@ -1,0 +1,1 @@
+cmd_drivers/video/fbdev/core/built-in.o :=  /home/xiaoxiao/workspace/meiou/meiou_AK37D_fenqu/tools/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-ld -EL    -r -o drivers/video/fbdev/core/built-in.o drivers/video/fbdev/core/fb_notify.o drivers/video/fbdev/core/fb_cmdline.o drivers/video/fbdev/core/fb.o 

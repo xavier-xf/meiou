@@ -1,0 +1,91 @@
+=============Burn Information For Channel[1]=============
+Print Time: 2025-1-14 11:03:23
+
+ss g_udisk_burnnum: 0
+[11:03:23]work number = 1
+[11:03:23]burn_mode = 1, eMedium = 1
+[11:03:23]++Start download producer++
+producer path: producer_39xx.bin, addr=80000000
+[11:04:49]end work number = 0
+[11:04:49]++Burn success++
+[11:04:49]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2025-1-14 11:11:58
+
+ss g_udisk_burnnum: 0
+[11:11:58]work number = 1
+[11:11:58]burn_mode = 1, eMedium = 1
+[11:11:58]++Start download producer++
+producer path: producer_39xx.bin, addr=80000000
+[11:12:16]burn_spiflash fail.
+[11:12:16]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2025-1-14 11:12:17
+
+ss g_udisk_burnnum: 0
+[11:12:17]work number = 1
+[11:12:17]burn_mode = 1, eMedium = 1
+[11:12:17]Burn_GetRegValue fail
+[11:12:17]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2025-1-14 11:13:20
+
+ss g_udisk_burnnum: 0
+[11:13:20]work number = 1
+[11:13:20]burn_mode = 1, eMedium = 1
+[11:13:20]Burn_GetRegValue fail
+[11:13:20]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2025-1-14 11:13:58
+
+ss g_udisk_burnnum: 0
+[11:13:58]work number = 1
+[11:13:58]burn_mode = 1, eMedium = 1
+[11:13:58]++Start download producer++
+producer path: producer_39xx.bin, addr=80000000
+[11:15:23]end work number = 0
+[11:15:23]++Burn success++
+[11:15:23]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2025-1-14 11:21:10
+
+ss g_udisk_burnnum: 0
+[11:21:10]work number = 1
+[11:21:10]burn_mode = 1, eMedium = 1
+[11:21:10]++Start download producer++
+producer path: producer_39xx.bin, addr=80000000
+[11:22:42]end work number = 0
+[11:22:42]++Burn success++
+[11:22:42]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2025-1-14 15:38:36
+
+ss g_udisk_burnnum: 0
+[15:38:36]work number = 1
+[15:38:36]burn_mode = 1, eMedium = 1
+[15:38:36]++Start download producer++
+producer path: producer_39xx.bin, addr=80000000
+[15:40:06]end work number = 0
+[15:40:06]++Burn success++
+[15:40:06]close file
+
+
+

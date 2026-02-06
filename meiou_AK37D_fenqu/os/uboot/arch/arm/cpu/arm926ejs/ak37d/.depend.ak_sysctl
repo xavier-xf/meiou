@@ -1,0 +1,19 @@
+ak_sysctl.o: ak_sysctl.c \
+ /home/leo/CDV1004QT/AK37D_SDK_V1.06/os/uboot/include/asm/io.h \
+ /home/leo/CDV1004QT/AK37D_SDK_V1.06/os/uboot/include/linux/types.h \
+ /home/leo/CDV1004QT/AK37D_SDK_V1.06/os/uboot/include/linux/config.h \
+ /home/leo/CDV1004QT/AK37D_SDK_V1.06/os/uboot/include/linux/posix_types.h \
+ /home/leo/CDV1004QT/AK37D_SDK_V1.06/os/uboot/include/linux/stddef.h \
+ /home/leo/CDV1004QT/AK37D_SDK_V1.06/os/uboot/include/asm/posix_types.h \
+ /home/leo/CDV1004QT/AK37D_SDK_V1.06/os/uboot/include/asm/types.h \
+ /home/leo/CDV1004QT/AK37D_SDK_V1.06/tools/arm-anykav500-linux-uclibcgnueabi/lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/include/stdbool.h \
+ /home/leo/CDV1004QT/AK37D_SDK_V1.06/os/uboot/include/asm/byteorder.h \
+ /home/leo/CDV1004QT/AK37D_SDK_V1.06/os/uboot/include/linux/byteorder/little_endian.h \
+ /home/leo/CDV1004QT/AK37D_SDK_V1.06/os/uboot/include/linux/compiler.h \
+ /home/leo/CDV1004QT/AK37D_SDK_V1.06/os/uboot/include/linux/compiler-gcc.h \
+ /home/leo/CDV1004QT/AK37D_SDK_V1.06/os/uboot/include/linux/compiler-gcc4.h \
+ /home/leo/CDV1004QT/AK37D_SDK_V1.06/os/uboot/include/linux/byteorder/swab.h \
+ /home/leo/CDV1004QT/AK37D_SDK_V1.06/os/uboot/include/linux/byteorder/generic.h \
+ /home/leo/CDV1004QT/AK37D_SDK_V1.06/os/uboot/include/asm/memory.h \
+ /home/leo/CDV1004QT/AK37D_SDK_V1.06/os/uboot/include/asm/arch-ak37d/ak_cpu.h \
+ /home/leo/CDV1004QT/AK37D_SDK_V1.06/os/uboot/include/asm/arch-ak37d/ak_sysctl.h

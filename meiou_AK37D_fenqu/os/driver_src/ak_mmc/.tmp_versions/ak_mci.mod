@@ -1,0 +1,2 @@
+/home/leo/CDV1004QT/AK37D_SDK_V1.06/os/driver_src/ak_mmc/ak_mci.ko
+/home/leo/CDV1004QT/AK37D_SDK_V1.06/os/driver_src/ak_mmc/ak_mci.o

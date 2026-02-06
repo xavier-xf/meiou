@@ -1,0 +1,1 @@
+cmd_drivers/mmc/core/mmc_core.ko := /home/xiaoxiao/workspace/meiou/meiou_AK37D_fenqu/tools/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-ld -EL -r  -T /home/xiaoxiao/workspace/meiou/meiou_AK37D_fenqu/os/kernel/scripts/module-common.lds --build-id  -o drivers/mmc/core/mmc_core.ko drivers/mmc/core/mmc_core.o drivers/mmc/core/mmc_core.mod.o

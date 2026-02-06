@@ -1,0 +1,1 @@
+cmd_drivers/iio/common/built-in.o :=  /home/xiaoxiao/workspace/meiou/meiou_AK37D_fenqu/tools/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-ld -EL    -r -o drivers/iio/common/built-in.o drivers/iio/common/hid-sensors/built-in.o drivers/iio/common/ms_sensors/built-in.o drivers/iio/common/ssp_sensors/built-in.o drivers/iio/common/st_sensors/built-in.o 

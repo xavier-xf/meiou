@@ -1,0 +1,10 @@
+/home/xiaole/smb/the_new/meiou_AK37D_fenqu/os/ubd/common/memsize.o: \
+ memsize.c \
+ /home/xiaole/smb/the_new/meiou_AK37D_fenqu/os/ubd/include/config.h \
+ /home/xiaole/smb/the_new/meiou_AK37D_fenqu/os/uboot/include/config_cmd_defaults.h \
+ /home/xiaole/smb/the_new/meiou_AK37D_fenqu/os/uboot/include/config_defaults.h \
+ /home/xiaole/smb/the_new/meiou_AK37D_fenqu/os/uboot/include/configs/anycloud_ak37d.h \
+ /home/xiaole/smb/the_new/meiou_AK37D_fenqu/os/uboot/include/configs/ak_board.h \
+ /home/xiaole/smb/the_new/meiou_AK37D_fenqu/os/ubd/include2/asm/config.h \
+ /home/xiaole/smb/the_new/meiou_AK37D_fenqu/os/uboot/include/config_fallbacks.h \
+ /home/xiaole/smb/the_new/meiou_AK37D_fenqu/os/uboot/include/config_uncmd_spl.h

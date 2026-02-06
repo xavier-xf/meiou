@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/built-in.o :=  /home/xiaoxiao/workspace/meiou/meiou_AK37D_fenqu/tools/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-ld -EL    -r -o drivers/net/wireless/built-in.o drivers/net/wireless/realtek/built-in.o 

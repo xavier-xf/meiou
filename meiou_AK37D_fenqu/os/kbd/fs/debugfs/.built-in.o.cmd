@@ -1,0 +1,1 @@
+cmd_fs/debugfs/built-in.o :=  /home/xiaoxiao/workspace/meiou/meiou_AK37D_fenqu/tools/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-ld -EL    -r -o fs/debugfs/built-in.o fs/debugfs/debugfs.o 

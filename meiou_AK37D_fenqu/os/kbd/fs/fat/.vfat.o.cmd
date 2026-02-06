@@ -1,0 +1,1 @@
+cmd_fs/fat/vfat.o := /home/xiaoxiao/workspace/meiou/meiou_AK37D_fenqu/tools/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-ld -EL    -r -o fs/fat/vfat.o fs/fat/namei_vfat.o 

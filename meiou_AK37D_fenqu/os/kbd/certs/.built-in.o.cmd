@@ -1,0 +1,1 @@
+cmd_certs/built-in.o :=  rm -f certs/built-in.o; /home/xiaoxiao/workspace/meiou/meiou_AK37D_fenqu/tools/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-ar rcsD certs/built-in.o

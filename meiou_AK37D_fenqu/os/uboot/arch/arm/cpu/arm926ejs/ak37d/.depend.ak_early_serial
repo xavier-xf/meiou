@@ -1,0 +1,4 @@
+ak_early_serial.o: ak_early_serial.c \
+ /home/leo/CDV1004QT/AK37D_SDK_V1.06/os/uboot/include/asm/arch-ak37d/ak_cpu.h \
+ /home/leo/CDV1004QT/AK37D_SDK_V1.06/os/uboot/include/asm/arch-ak37d/ak_l2buf.h \
+ /home/leo/CDV1004QT/AK37D_SDK_V1.06/os/uboot/include/asm/arch-ak37d/ak_types.h

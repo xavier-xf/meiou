@@ -1,0 +1,1 @@
+cmd_kernel/printk/built-in.o :=  /home/xiaoxiao/workspace/meiou/meiou_AK37D_fenqu/tools/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-ld -EL    -r -o kernel/printk/built-in.o kernel/printk/printk.o 

@@ -1,0 +1,2 @@
+uboot_display.c:31:12:upgrade_progress_bar_draw.isra.0.part.1.constprop	24	static
+uboot_display.c:130:5:uboot_display	24	static

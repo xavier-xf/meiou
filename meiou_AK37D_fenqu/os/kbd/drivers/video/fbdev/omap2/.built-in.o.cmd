@@ -1,0 +1,1 @@
+cmd_drivers/video/fbdev/omap2/built-in.o :=  /home/xiaoxiao/workspace/meiou/meiou_AK37D_fenqu/tools/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-ld -EL    -r -o drivers/video/fbdev/omap2/built-in.o drivers/video/fbdev/omap2/dss/built-in.o drivers/video/fbdev/omap2/displays-new/built-in.o 

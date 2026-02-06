@@ -1,0 +1,1 @@
+cmd_arch/arm/boot/Image := /home/xiaoxiao/workspace/meiou/meiou_AK37D_fenqu/tools/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-objcopy -O binary -R .comment -S  vmlinux arch/arm/boot/Image

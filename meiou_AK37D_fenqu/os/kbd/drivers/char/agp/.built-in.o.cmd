@@ -1,0 +1,1 @@
+cmd_drivers/char/agp/built-in.o :=  rm -f drivers/char/agp/built-in.o; /home/xiaoxiao/workspace/meiou/meiou_AK37D_fenqu/tools/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-ar rcsD drivers/char/agp/built-in.o

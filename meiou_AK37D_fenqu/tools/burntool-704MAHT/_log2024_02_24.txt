@@ -1,0 +1,16 @@
+
+
+=============Transc Information =============
+Print Time: 2024-02-24 09:42:53
+
+[09:42:53]BT_CommitTransc fail
+[09:42:53]BT_DownLoadCmd fail
+[09:42:53]BT_DownLoad fail
+
+
+=============Transc Information =============
+Print Time: 2024-02-24 09:44:41
+
+[09:44:41]BT_CommitTransc fail
+[09:44:41]BT_DownLoadCmd fail
+[09:44:41]BT_DownLoad fail

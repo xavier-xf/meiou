@@ -1,0 +1,1 @@
+cmd_fs/nfs/nfsv3.o := /home/xiaoxiao/workspace/meiou/meiou_AK37D_fenqu/tools/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-ld -EL    -r -o fs/nfs/nfsv3.o fs/nfs/nfs3super.o fs/nfs/nfs3client.o fs/nfs/nfs3proc.o fs/nfs/nfs3xdr.o 

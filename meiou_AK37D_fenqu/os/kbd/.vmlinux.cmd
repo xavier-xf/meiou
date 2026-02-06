@@ -1,0 +1,1 @@
+cmd_vmlinux := /bin/bash /home/xiaoxiao/workspace/meiou/meiou_AK37D_fenqu/os/kernel/scripts/link-vmlinux.sh /home/xiaoxiao/workspace/meiou/meiou_AK37D_fenqu/tools/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-ld -EL  -p --no-undefined -X --pic-veneer --build-id

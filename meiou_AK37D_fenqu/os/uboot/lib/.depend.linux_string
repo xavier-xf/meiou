@@ -1,0 +1,20 @@
+linux_string.o: linux_string.c \
+ /home/leo/CDV1004QT/AK37D_SDK_V1.06/os/uboot/include/linux/ctype.h \
+ /home/leo/CDV1004QT/AK37D_SDK_V1.06/os/uboot/include/linux/string.h \
+ /home/leo/CDV1004QT/AK37D_SDK_V1.06/os/uboot/include/linux/types.h \
+ /home/leo/CDV1004QT/AK37D_SDK_V1.06/os/uboot/include/linux/config.h \
+ /home/leo/CDV1004QT/AK37D_SDK_V1.06/os/uboot/include/linux/posix_types.h \
+ /home/leo/CDV1004QT/AK37D_SDK_V1.06/os/uboot/include/linux/stddef.h \
+ /home/leo/CDV1004QT/AK37D_SDK_V1.06/os/uboot/include/asm/posix_types.h \
+ /home/leo/CDV1004QT/AK37D_SDK_V1.06/os/uboot/include/asm/types.h \
+ /home/leo/CDV1004QT/AK37D_SDK_V1.06/tools/arm-anykav500-linux-uclibcgnueabi/lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/include/stdbool.h \
+ /home/leo/CDV1004QT/AK37D_SDK_V1.06/os/uboot/include/asm/string.h \
+ /home/leo/CDV1004QT/AK37D_SDK_V1.06/os/uboot/include/config.h \
+ /home/leo/CDV1004QT/AK37D_SDK_V1.06/os/uboot/include/config_cmd_defaults.h \
+ /home/leo/CDV1004QT/AK37D_SDK_V1.06/os/uboot/include/config_defaults.h \
+ /home/leo/CDV1004QT/AK37D_SDK_V1.06/os/uboot/include/configs/anycloud_ak37d.h \
+ /home/leo/CDV1004QT/AK37D_SDK_V1.06/os/uboot/include/configs/ak_board.h \
+ /home/leo/CDV1004QT/AK37D_SDK_V1.06/os/uboot/include/asm/config.h \
+ /home/leo/CDV1004QT/AK37D_SDK_V1.06/os/uboot/include/config_fallbacks.h \
+ /home/leo/CDV1004QT/AK37D_SDK_V1.06/os/uboot/include/config_uncmd_spl.h \
+ /home/leo/CDV1004QT/AK37D_SDK_V1.06/os/uboot/include/linux/linux_string.h

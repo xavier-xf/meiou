@@ -1,0 +1,1 @@
+cmd_fs/nfs_common/built-in.o :=  rm -f fs/nfs_common/built-in.o; /home/xiaoxiao/workspace/meiou/meiou_AK37D_fenqu/tools/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-ar rcsD fs/nfs_common/built-in.o

@@ -1,0 +1,1 @@
+cmd_firmware/built-in.o :=  rm -f firmware/built-in.o; /home/xiaoxiao/workspace/meiou/meiou_AK37D_fenqu/tools/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-ar rcsD firmware/built-in.o

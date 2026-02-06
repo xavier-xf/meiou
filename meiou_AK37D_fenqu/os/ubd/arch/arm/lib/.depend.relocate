@@ -1,0 +1,5 @@
+/home/xiaole/smb/the_new/meiou_AK37D_fenqu/os/ubd/arch/arm/lib/relocate.o: \
+ relocate.S \
+ /home/xiaole/smb/the_new/meiou_AK37D_fenqu/os/uboot/include/linux/linkage.h \
+ /home/xiaole/smb/the_new/meiou_AK37D_fenqu/os/ubd/include2/asm/linkage.h \
+ /home/xiaole/smb/the_new/meiou_AK37D_fenqu/os/uboot/include/linux/config.h

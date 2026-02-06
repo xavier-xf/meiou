@@ -1,0 +1,1 @@
+cmd_drivers/mmc/host/built-in.o :=  rm -f drivers/mmc/host/built-in.o; /home/xiaoxiao/workspace/meiou/meiou_AK37D_fenqu/tools/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-ar rcsD drivers/mmc/host/built-in.o
